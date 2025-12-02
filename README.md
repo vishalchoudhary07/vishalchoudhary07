@@ -2,6 +2,13 @@
 
   ## Hi there 👋
 
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vishalchoudhary07&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="vishalchoudhary07" />
+  </a>
+</div>
+
+<br/>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Tech+Explorer;Open+Source+Enthusiast;Always+Learning&center=true&vCenter=true" alt="Typing SVG" />
   </a>
