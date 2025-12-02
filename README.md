@@ -25,16 +25,20 @@
 
   <br/>
 
-  <h3>📊 GitHub Analytics</h3>
-  
-  <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=vishalchoudhary07&show_icons=true&theme=dracula" alt="My GitHub Stats" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalchoudhary07&layout=compact&theme=dracula" alt="Top Langs" />
-    </a>
-  </p>
+  ### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vishalchoudhary07/vishalchoudhary07/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vishalchoudhary07/vishalchoudhary07/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos per Language" />
+  <img src="https://raw.githubusercontent.com/vishalchoudhary07/vishalchoudhary07/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="Most Commits" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vishalchoudhary07/vishalchoudhary07/main/profile-summary-card-output/default/3-stats.svg" alt="Stats" />
+</p>
 
   <br/>
 
