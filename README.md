@@ -28,16 +28,16 @@
   ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vishalchoudhary07/vishalchoudhary07/main/profile-summary-card-output/default/0-profile-details.svg" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/vishalchoudhary07/vishalchoudhary07/main/profile-summary-card-output/dark/0-profile-details.svg" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vishalchoudhary07/vishalchoudhary07/main/profile-summary-card-output/default/1-repos-per-language.svg" alt="Repos per Language" />
-  <img src="https://raw.githubusercontent.com/vishalchoudhary07/vishalchoudhary07/main/profile-summary-card-output/default/2-most-commit-language.svg" alt="Most Commits" />
+  <img src="https://raw.githubusercontent.com/vishalchoudhary07/vishalchoudhary07/main/profile-summary-card-output/dark/1-repos-per-language.svg" alt="Repos per Language" />
+  <img src="https://raw.githubusercontent.com/vishalchoudhary07/vishalchoudhary07/main/profile-summary-card-output/dark/2-most-commit-language.svg" alt="Most Commits" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vishalchoudhary07/vishalchoudhary07/main/profile-summary-card-output/default/3-stats.svg" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/vishalchoudhary07/vishalchoudhary07/main/profile-summary-card-output/dark/3-stats.svg" alt="Stats" />
 </p>
 
   <br/>
