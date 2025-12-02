@@ -48,9 +48,6 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vishalchoudhary07/vishalchoudhary07/output/github-contribution-grid-snake.svg">
   </picture>
 
-  <br />
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=dark" alt="Jokes Card" />
-</p>
+  
 
 </div>
