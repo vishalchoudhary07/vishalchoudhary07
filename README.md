@@ -1,6 +1,8 @@
 <div align="center">
 
-  ## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f12711,100:f5af19&height=250&section=header&text=(●'◡'●)Hi%20there&fontSize=70&animation=fadeIn&fontColor=ffffff" width="100%"/>
+</div>
 
 
   <a href="https://git.io/typing-svg">
@@ -48,7 +50,5 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishalchoudhary07/vishalchoudhary07/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vishalchoudhary07/vishalchoudhary07/output/github-contribution-grid-snake.svg">
   </picture>
-
-  
 
 </div>
